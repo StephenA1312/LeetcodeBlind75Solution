@@ -1,5 +1,5 @@
 
-//1. Two Sum
+//1. Two Sum - my laptop
 
 int* twoSum(int* nums, int numsSize, int target, int* returnSize){
     *returnSize = 2;
