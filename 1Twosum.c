@@ -1,5 +1,5 @@
 
-//1. Two Sum - my 
+//1. Two Sum - my gg
 
 int* twoSum(int* nums, int numsSize, int target, int* returnSize){
     *returnSize = 2;
